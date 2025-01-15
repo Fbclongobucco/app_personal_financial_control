@@ -1,4 +1,4 @@
-package com.buccodev.app_finance.core;
+package com.buccodev.app_finance.core.entities;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
